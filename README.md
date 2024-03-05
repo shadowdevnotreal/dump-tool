@@ -1,6 +1,10 @@
 ![file-xQ5DoiGL7zbPC7wbL0i6Imls](https://github.com/shadowdevnotreal/dump-tool/assets/43219706/261f0dad-5262-4d71-a51c-3a28fb02424c)
 
+## Support FOSS future development - Simping for donations here 👇
 
+<a href="https://www.buymeacoffee.com/notarealdev">
+    <img src="https://img.buymeacoffee.com/button-api/?text=Buy me a cat&emoji=🐈&slug=notarealdev&button_colour=9123cd&font_colour=ffffff&font_family=Bree&outline_colour=ffffff&coffee_colour=FFDD00" />
+</a>
 
 # File Search Tool with GUI
 
@@ -36,8 +40,30 @@ Ensure you have Zenity, grep, and find installed on your system. If `aha` is not
 
 ## Contributing
 
-Contributions to enhance the script's functionality or to add new features are welcome. Please feel free to fork the repository and submit a pull request.
+We welcome contributions! Please follow these steps to contribute to darooch:
 
-## License
+1. Fork the Project.
+2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`).
+3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`).
+4. Push to the Branch (`git push origin feature/AmazingFeature`).
+5. Open a Pull Request.
 
-This script is released under the MIT License. See the LICENSE file for more details.
+## Feedback and Support
+
+For support, feedback, or suggestions, please open an issue in the GitHub repository. Your input helps make BashBuddy better for everyone.
+
+### Final Steps
+
+- Ensure you replace `https://github.com/shadowdevnotreal/ddst.git` with the actual URL of your GitHub repository.
+- Adjust any specific instructions or descriptions as needed based on your project's setup or requirements.
+- If you have not already, consider adding a `LICENSE` file to clearly communicate how others can use or contribute to your project.
+
+This README provides a comprehensive guide for users to get started, understand its features, and know how to contribute.
+
+---
+
+As always = TY 😊 
+
+<a href="https://www.buymeacoffee.com/notarealdev">
+    <img src="https://img.buymeacoffee.com/button-api/?text=Buy me a cat&emoji=🐈&slug=notarealdev&button_colour=9123cd&font_colour=ffffff&font_family=Bree&outline_colour=ffffff&coffee_colour=FFDD00" />
+</a>
